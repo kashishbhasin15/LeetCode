@@ -8,8 +8,7 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
     {
         for(int j=i+1;j<numsSize;j++)
         {
-            int sum = nums[i]+nums[j];
-            if(sum==target)
+            if(nums[i]+nums[j]==target)
             {
                 result[0]=i;
                 result[1]=j;
