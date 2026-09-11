@@ -4,7 +4,7 @@ int search(int* nums, int numsSize, int target) {
 
     while(low<=high)
     {
-       int mid=low+(high-low)/2;
+       int mid=(low+high)/2;
 
        if(nums[mid]==target)
        {
