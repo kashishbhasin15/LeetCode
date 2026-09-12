@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/kashishbhasin15/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/kashishbhasin15/LeetCode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/kashishbhasin15/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
+| [0610-triangle-judgement](https://github.com/kashishbhasin15/LeetCode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/kashishbhasin15/LeetCode/tree/master/0619-biggest-single-number) |
 | [1068-product-sales-analysis-i](https://github.com/kashishbhasin15/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/kashishbhasin15/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
