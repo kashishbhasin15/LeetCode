@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/kashishbhasin15/LeetCode/tree/master/0198-house-robber) |
+| [0678-valid-parenthesis-string](https://github.com/kashishbhasin15/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,4 +71,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/kashishbhasin15/LeetCode/tree/master/0436-find-right-interval) |
+## String
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/kashishbhasin15/LeetCode/tree/master/0678-valid-parenthesis-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/kashishbhasin15/LeetCode/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/kashishbhasin15/LeetCode/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/kashishbhasin15/LeetCode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
