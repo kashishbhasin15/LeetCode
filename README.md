@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kashishbhasin15/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kashishbhasin15/LeetCode/tree/master/0035-search-insert-position) |
 | [0198-house-robber](https://github.com/kashishbhasin15/LeetCode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/kashishbhasin15/LeetCode/tree/master/0204-count-primes) |
 | [0436-find-right-interval](https://github.com/kashishbhasin15/LeetCode/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/kashishbhasin15/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kashishbhasin15/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -116,4 +117,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/kashishbhasin15/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kashishbhasin15/LeetCode/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kashishbhasin15/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kashishbhasin15/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kashishbhasin15/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kashishbhasin15/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kashishbhasin15/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
