@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kashishbhasin15/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kashishbhasin15/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kashishbhasin15/LeetCode/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kashishbhasin15/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/kashishbhasin15/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/kashishbhasin15/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/kashishbhasin15/LeetCode/tree/master/0217-contains-duplicate) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kashishbhasin15/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kashishbhasin15/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/kashishbhasin15/LeetCode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/kashishbhasin15/LeetCode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/kashishbhasin15/LeetCode/tree/master/0678-valid-parenthesis-string) |
