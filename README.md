@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kashishbhasin15/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/kashishbhasin15/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/kashishbhasin15/LeetCode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/kashishbhasin15/LeetCode/tree/master/0283-move-zeroes) |
 | [0436-find-right-interval](https://github.com/kashishbhasin15/LeetCode/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/kashishbhasin15/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kashishbhasin15/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/kashishbhasin15/LeetCode/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/kashishbhasin15/LeetCode/tree/master/0283-move-zeroes) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kashishbhasin15/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
