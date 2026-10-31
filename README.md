@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/kashishbhasin15/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kashishbhasin15/LeetCode/tree/master/0283-move-zeroes) |
 | [0436-find-right-interval](https://github.com/kashishbhasin15/LeetCode/tree/master/0436-find-right-interval) |
+| [0560-subarray-sum-equals-k](https://github.com/kashishbhasin15/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kashishbhasin15/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kashishbhasin15/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kashishbhasin15/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kashishbhasin15/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/kashishbhasin15/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kashishbhasin15/LeetCode/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/kashishbhasin15/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kashishbhasin15/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/kashishbhasin15/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
 | ------- |
