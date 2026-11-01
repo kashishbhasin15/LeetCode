@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kashishbhasin15/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/kashishbhasin15/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/kashishbhasin15/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kashishbhasin15/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kashishbhasin15/LeetCode/tree/master/0035-search-insert-position) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kashishbhasin15/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/kashishbhasin15/LeetCode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/kashishbhasin15/LeetCode/tree/master/0283-move-zeroes) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kashishbhasin15/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kashishbhasin15/LeetCode/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/kashishbhasin15/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kashishbhasin15/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kashishbhasin15/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
