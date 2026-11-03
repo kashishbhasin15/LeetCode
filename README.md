@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kashishbhasin15/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/kashishbhasin15/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kashishbhasin15/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kashishbhasin15/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kashishbhasin15/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kashishbhasin15/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/kashishbhasin15/LeetCode/tree/master/0509-fibonacci-number) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kashishbhasin15/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Enumeration
 |  |
 | ------- |
