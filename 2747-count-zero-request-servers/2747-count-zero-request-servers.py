@@ -21,32 +21,45 @@
 #         return ans
 
 
-from bisect import bisect_left
-
 class Solution(object):
     def countServers(self, n, logs, x, queries):
-        server_times = [[] for _ in range(n + 1)]
+        logs.sort(key=lambda a: a[1])
 
-        for server, time in logs:
-            server_times[server].append(time)
+        sorted_queries = sorted(
+            (q, i) for i, q in enumerate(queries)
+        )
 
-        for times in server_times:
-            times.sort()
+        ans = [0] * len(queries)
+        count = [0] * (n + 1)
 
-        ans = []
+        left = 0
+        right = 0
+        active = 0
 
-        for q in queries:
+        for q, idx in sorted_queries:
             start = q - x
-            inactive = 0
 
-            for server in range(1, n + 1):
-                times = server_times[server]
+            # Add logs whose time is <= query time
+            while right < len(logs) and logs[right][1] <= q:
+                server = logs[right][0]
 
-                pos = bisect_left(times, start)
+                if count[server] == 0:
+                    active += 1
 
-                if pos == len(times) or times[pos] > q:
-                    inactive += 1
+                count[server] += 1
+                right += 1
 
-            ans.append(inactive)
+            # Remove logs whose time is < start
+            while left < right and logs[left][1] < start:
+                server = logs[left][0]
+
+                count[server] -= 1
+
+                if count[server] == 0:
+                    active -= 1
+
+                left += 1
+
+            ans[idx] = n - active
 
         return ans
