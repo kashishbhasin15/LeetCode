@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kashishbhasin15/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kashishbhasin15/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/kashishbhasin15/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1882-process-tasks-using-servers](https://github.com/kashishbhasin15/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/kashishbhasin15/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kashishbhasin15/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kashishbhasin15/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -224,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kashishbhasin15/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1882-process-tasks-using-servers](https://github.com/kashishbhasin15/LeetCode/tree/master/1882-process-tasks-using-servers) |
 <!---LeetCode Topics End-->
