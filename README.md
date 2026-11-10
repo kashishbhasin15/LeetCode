@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/kashishbhasin15/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1882-process-tasks-using-servers](https://github.com/kashishbhasin15/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/kashishbhasin15/LeetCode/tree/master/2747-count-zero-request-servers) |
+| [3693-climbing-stairs-ii](https://github.com/kashishbhasin15/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kashishbhasin15/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kashishbhasin15/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kashishbhasin15/LeetCode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/kashishbhasin15/LeetCode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/kashishbhasin15/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [3693-climbing-stairs-ii](https://github.com/kashishbhasin15/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
 | ------- |
