@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kashishbhasin15/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kashishbhasin15/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/kashishbhasin15/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/kashishbhasin15/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kashishbhasin15/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kashishbhasin15/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/kashishbhasin15/LeetCode/tree/master/0198-house-robber) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/kashishbhasin15/LeetCode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/kashishbhasin15/LeetCode/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/kashishbhasin15/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kashishbhasin15/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
