@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/kashishbhasin15/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kashishbhasin15/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kashishbhasin15/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kashishbhasin15/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kashishbhasin15/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/kashishbhasin15/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1882-process-tasks-using-servers](https://github.com/kashishbhasin15/LeetCode/tree/master/1882-process-tasks-using-servers) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kashishbhasin15/LeetCode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/kashishbhasin15/LeetCode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/kashishbhasin15/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kashishbhasin15/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3693-climbing-stairs-ii](https://github.com/kashishbhasin15/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kashishbhasin15/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kashishbhasin15/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/kashishbhasin15/LeetCode/tree/master/0509-fibonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kashishbhasin15/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kashishbhasin15/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/kashishbhasin15/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Enumeration
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/kashishbhasin15/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/kashishbhasin15/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kashishbhasin15/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kashishbhasin15/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/kashishbhasin15/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window
 |  |
