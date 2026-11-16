@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kashishbhasin15/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kashishbhasin15/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kashishbhasin15/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0189-rotate-array](https://github.com/kashishbhasin15/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kashishbhasin15/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/kashishbhasin15/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/kashishbhasin15/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kashishbhasin15/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/kashishbhasin15/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kashishbhasin15/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0189-rotate-array](https://github.com/kashishbhasin15/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kashishbhasin15/LeetCode/tree/master/0283-move-zeroes) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kashishbhasin15/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kashishbhasin15/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/kashishbhasin15/LeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/kashishbhasin15/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/kashishbhasin15/LeetCode/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/kashishbhasin15/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kashishbhasin15/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
